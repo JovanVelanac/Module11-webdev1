@@ -1,0 +1,46 @@
+p{
+    color: white;
+}
+
+href{
+    color: blue;
+}
+body {
+    background-color: black;
+}
+
+
+.name{
+    background-color: orangered;
+    color: white;
+    padding: 10px;
+}
+
+.article{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+}
+.but > button {
+    width: 200px;
+    height: 200px;
+}
+
+.but > button:hover{
+    background-color: red;
+}
+
+
+.image1{
+color: white;
+
+}
+
+.image1 >img{
+    width: 500px;
+}
+
+.paragraph{
+    color: white;
+    width: 40%;
+}
